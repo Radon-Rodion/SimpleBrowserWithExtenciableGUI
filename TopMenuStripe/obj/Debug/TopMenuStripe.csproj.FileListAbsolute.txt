@@ -1,0 +1,15 @@
+F:\Coding\C#\SPP_7\TopMenuStripe\bin\Debug\TopMenuStripe.dll
+F:\Coding\C#\SPP_7\TopMenuStripe\bin\Debug\TopMenuStripe.pdb
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenu.g.cs
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe_MarkupCompile.cache
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe_MarkupCompile.lref
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenu.baml
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.g.resources
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.Properties.Resources.resources
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.dll
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.pdb
+F:\Coding\C#\SPP_7\TopMenuStripe\bin\Debug\AttributesLibraryForSPP7.dll
+F:\Coding\C#\SPP_7\TopMenuStripe\obj\Debug\TopMenuStripe.csproj.CopyComplete

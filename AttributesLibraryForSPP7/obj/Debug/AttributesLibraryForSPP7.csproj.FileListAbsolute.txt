@@ -1,0 +1,6 @@
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\bin\Debug\AttributesLibraryForSPP7.dll
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\bin\Debug\AttributesLibraryForSPP7.pdb
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\obj\Debug\AttributesLibraryForSPP7.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\obj\Debug\AttributesLibraryForSPP7.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\obj\Debug\AttributesLibraryForSPP7.dll
+F:\Coding\C#\SPP_7\AttributesLibraryForSPP7\obj\Debug\AttributesLibraryForSPP7.pdb

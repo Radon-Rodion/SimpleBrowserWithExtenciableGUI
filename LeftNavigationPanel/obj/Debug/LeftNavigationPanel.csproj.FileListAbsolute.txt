@@ -1,0 +1,15 @@
+F:\Coding\C#\SPP_7\LeftNavigationPanel\bin\Debug\LeftNavigationPanel.dll
+F:\Coding\C#\SPP_7\LeftNavigationPanel\bin\Debug\LeftNavigationPanel.pdb
+F:\Coding\C#\SPP_7\LeftNavigationPanel\bin\Debug\AttributesLibraryForSPP7.dll
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.g.cs
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel_MarkupCompile.cache
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel_MarkupCompile.lref
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.baml
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.g.resources
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.Properties.Resources.resources
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.csproj.CopyComplete
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.dll
+F:\Coding\C#\SPP_7\LeftNavigationPanel\obj\Debug\LeftNavigationPanel.pdb

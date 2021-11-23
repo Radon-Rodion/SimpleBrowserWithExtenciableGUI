@@ -1,0 +1,17 @@
+F:\Coding\C#\SPP_7\SPP_7\bin\Debug\SPP_7.exe.config
+F:\Coding\C#\SPP_7\SPP_7\bin\Debug\SPP_7.exe
+F:\Coding\C#\SPP_7\SPP_7\bin\Debug\SPP_7.pdb
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.csproj.AssemblyReference.cache
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\MainWindow.g.cs
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\App.g.cs
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7_MarkupCompile.cache
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7_MarkupCompile.lref
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\MainWindow.baml
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.g.resources
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.Properties.Resources.resources
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.csproj.GenerateResource.cache
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.csproj.CoreCompileInputs.cache
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.exe
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.pdb
+F:\Coding\C#\SPP_7\SPP_7\bin\Debug\AttributesLibraryForSPP7.dll
+F:\Coding\C#\SPP_7\SPP_7\obj\Debug\SPP_7.csproj.CopyComplete
